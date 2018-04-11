@@ -1,5 +1,4 @@
 <?php
-define('URL', 'http://duythien.dev/sitepoint/blog-mongodb');
 define('UserAuth', 'root');
 define('PasswordAuth', 'simplonco');
 
